@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    width: 60px;
+    margin: 10px 0 0 0;
+}
+.ul{
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+.col-sm-6 ul li{
+    list-style-type: none;
+    display: inline;
+    padding: 10px;
+    font-weight: 500;
+}
+.col-sm-6 ul li a{
+    color: green;
+}
+.col-sm-6 ul li :hover{
+    text-decoration: none;
+    color: orange;
+}
+.icon{
+    color: black;
+    font-size: 30px;
+    margin-top: 30px;
+}
+.butt a{
+    color: white;
+    text-decoration: none;
+}
+.butt a:hover{
+    color: white;
+    text-decoration: none;
+}
+
